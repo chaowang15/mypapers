@@ -1,0 +1,15 @@
+CAD12: 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.4177&rep=rep1&type=pdf
+
+CVM15:
+http://graphics.cs.uh.edu/website/Publications/2015-JCST-SpectralAnimationCompression.pdf
+
+CVM17:
+https://link.springer.com/content/pdf/10.1007/s41095-016-0072-2.pdf
+
+3DV18:
+http://www.utdallas.edu/~xxg061000/3DV2018.pdf
+
+CVPR19:
+http://openaccess.thecvf.com/content_CVPRW_2019/papers/SUMO/Wang_Efficient_Plane-Based_Optimization_of_Geometry_and_Texture_for_Indoor_RGB-D_CVPRW_2019_paper.pdf
+
